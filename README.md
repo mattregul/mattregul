@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello there 👋
+
+// Full-Stack Developer // Indie Game Designer // Electronics Tinkerer 
+
+- [Twitter - @mattregul](https://twitter.com/mattregul)
+- [LinkedIn - @matthewregul](https://www.linkedin.com/in/matthewregul)
+
+[#ProceduralGeneration](https://www.bing.com/search?q=Procedural+Generation)  [#FibonacciSequence](https://www.bing.com/search?q=Fibonacci+Sequence)
+
 
 <!--
 **mattregul/mattregul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
