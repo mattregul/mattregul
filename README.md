@@ -34,6 +34,6 @@ I specialize in backend systems for live games, cross-platform SDKs, and cloud-i
 
 [#ProceduralGeneration](https://www.bing.com/search?q=Procedural+Generation) - [#FibonacciSequence](https://www.bing.com/search?q=Fibonacci+Sequence) - #GameDev - #AI - #DevSupport - #CloudDev
 
-**Take a look around**
+🔍 **Take a look around**
 - 👈 (left) - Some Organizations/Teams I'm involved with
 - 👇 (below) - Some public repos of cool stuff and my activity (sorry - most of my work can't be shared - please see the "🕸️ **Why My Repos Are Quiet**" section above)
