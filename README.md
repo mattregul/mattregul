@@ -37,5 +37,5 @@ I specialize in backend systems for live games, cross-platform SDKs, and cloud-i
 ---
 
 🔍 **Take a look around**
-- 👈 (left) - Some Organizations/Teams I'm involved with
-- 👇 (below) - Some public repos of cool stuff and my activity (sorry - most of my work can't be shared - please see the "🕸️ **Why My Repos Are Quiet**" section above)
+- 👈 _(left)_ - Some Organizations/Teams I'm involved with
+- 👇 _(below)_ - Some public repos of cool stuff and my activity (sorry - most of my work can't be shared - please see the "🕸️ **Why My Repos Are Quiet**" section above)
